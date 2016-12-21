@@ -1,0 +1,4 @@
+version: '2'
+
+services:
+  image: federicoalvarez/docker-on-ubuntu:1.0.0
